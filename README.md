@@ -92,9 +92,9 @@ zip-cracker-electron/
 
 이 프로젝트는 다음 AI의 검수와 도움을 받아 개발되었습니다:
 
-**![Claude](https://img.shields.io/badge/Co--Pilot-Claude-D97757?style=flat&logo=anthropic&logoColor=white&labelColor=444444) Opus 4.5** (Anthropic)
+**![Claude AI](https://img.shields.io/badge/AI-Claude-D97757?style=flat&logo=anthropic&logoColor=white&labelColor=444444) Opus 4.5** (Anthropic)
 
-**![Gemini](https://img.shields.io/badge/Co--Pilot-Gemini-4285F4?style=flat&logo=googlegemini&logoColor=white&labelColor=444444) 3.0 Pro** (Google)
+**![Gemini AI](https://img.shields.io/badge/AI-Gemini-4285F4?style=flat&logo=googlegemini&logoColor=white&labelColor=444444) 3.0 Pro** (Google)
 
 ---
 
