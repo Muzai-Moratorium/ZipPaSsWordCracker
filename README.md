@@ -2,9 +2,9 @@
 
 # 🐱 ZIP 암호 크래커
 
-![Version](https://img.shields.io/badge/version-1.0.0-gold)
-![Platform](https://img.shields.io/badge/platform-Windows-blue)
-![Electron](https://img.shields.io/badge/Electron-28.x-47848F)
+![Version](https://img.shields.io/badge/🐱-v1.0.0-F4D03F?style=flat&labelColor=444444)
+![Windows](https://img.shields.io/badge/OS-Windows-0078D4?style=flat&logo=windows&logoColor=white&labelColor=444444)
+![Electron](https://img.shields.io/badge/Framework-Electron-47848F?style=flat&logo=electron&logoColor=white&labelColor=444444)
 
 **암호가 걸린 ZIP 파일의 비밀번호를 찾아주는 프로그램**
 
@@ -92,9 +92,9 @@ zip-cracker-electron/
 
 이 프로젝트는 다음 AI의 검수와 도움을 받아 개발되었습니다:
 
-****Claude** Opus 4.5** (Anthropic)
+**![Claude](https://img.shields.io/badge/Co--Pilot-Claude-D97757?style=flat&logo=anthropic&logoColor=white&labelColor=444444) Opus 4.5** (Anthropic)
 
-****Gemini** 3.0 Pro** (Google)
+**![Gemini](https://img.shields.io/badge/Co--Pilot-Gemini-4285F4?style=flat&logo=googlegemini&logoColor=white&labelColor=444444) 3.0 Pro** (Google)
 
 ---
 
