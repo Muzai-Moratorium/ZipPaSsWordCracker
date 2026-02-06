@@ -92,8 +92,9 @@ zip-cracker-electron/
 
 이 프로젝트는 다음 AI의 검수와 도움을 받아 개발되었습니다:
 
-- **Claude Opus 4.5** (Anthropic)
-- **Gemini 3.0 Pro** (Google)
+****Claude** Opus 4.5** (Anthropic)
+
+****Gemini** 3.0 Pro** (Google)
 
 ---
 
