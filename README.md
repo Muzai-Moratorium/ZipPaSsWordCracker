@@ -100,6 +100,6 @@ zip-cracker-electron/
 
 <div align="center">
 
-© 2026 Muzai Moratorium. All Rights Reserved.
+**![Copyright](https://img.shields.io/badge/Copyright-2026_Muzai_Moratorium._All_Rights_Reserved.-8E75B2?style=flat&labelColor=444444)**
 
 </div>
